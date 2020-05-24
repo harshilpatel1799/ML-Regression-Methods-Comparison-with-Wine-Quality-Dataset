@@ -8,7 +8,6 @@ This notebook would implement the follwing machine learning methods:
 3. Random Forest
 4. Neural Networks: we will use Multi-layer perceptron.
 
-Response Variable: field used to split the data into two sets (patient with liver disease (value = 2), or no disease (value = 1))
 
 ## Our goal is to train a machine learning model to predict the quality score of the wine given phyicochemical information of it
 
